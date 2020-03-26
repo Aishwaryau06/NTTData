@@ -15,6 +15,7 @@ namespace FactoryDesignP
     {
         private int _creditLimit;
         private int _annualCharge;
+          private int _annualCharge;
 
         public MoneyBackFactory(int creditLimit, int annualCharge)
         {
