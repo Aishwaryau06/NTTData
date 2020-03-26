@@ -1,0 +1,6 @@
+C:\Users\uarun\source\repos\FactoryDesignP\FactoryDesignP\bin\Debug\FactoryDesignP.exe.config
+C:\Users\uarun\source\repos\FactoryDesignP\FactoryDesignP\bin\Debug\FactoryDesignP.exe
+C:\Users\uarun\source\repos\FactoryDesignP\FactoryDesignP\bin\Debug\FactoryDesignP.pdb
+C:\Users\uarun\source\repos\FactoryDesignP\FactoryDesignP\obj\Debug\FactoryDesignP.csproj.CoreCompileInputs.cache
+C:\Users\uarun\source\repos\FactoryDesignP\FactoryDesignP\obj\Debug\FactoryDesignP.exe
+C:\Users\uarun\source\repos\FactoryDesignP\FactoryDesignP\obj\Debug\FactoryDesignP.pdb
