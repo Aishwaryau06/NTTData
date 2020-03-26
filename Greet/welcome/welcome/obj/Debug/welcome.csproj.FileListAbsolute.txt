@@ -1,0 +1,7 @@
+C:\Users\uarun\source\repos\welcome\welcome\bin\Debug\welcome.exe.config
+C:\Users\uarun\source\repos\welcome\welcome\bin\Debug\welcome.exe
+C:\Users\uarun\source\repos\welcome\welcome\bin\Debug\welcome.pdb
+C:\Users\uarun\source\repos\welcome\welcome\obj\Debug\welcome.csprojAssemblyReference.cache
+C:\Users\uarun\source\repos\welcome\welcome\obj\Debug\welcome.csproj.CoreCompileInputs.cache
+C:\Users\uarun\source\repos\welcome\welcome\obj\Debug\welcome.exe
+C:\Users\uarun\source\repos\welcome\welcome\obj\Debug\welcome.pdb
